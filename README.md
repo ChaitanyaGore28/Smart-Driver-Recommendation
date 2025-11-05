@@ -17,7 +17,6 @@ This project introduces a hybrid approach — combining **LLM-based reasoning (F
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit" />
-  <img src="https://img.shields.io/badge/LLM-Flan-T5-green?logo=huggingface" />
   <img src="https://img.shields.io/badge/RAG-LangChain-orange?logo=langchain" />
   <img src="https://img.shields.io/badge/Web%20Search-DuckDuckGo%20API-purple?logo=duckduckgo" />
 </p>
