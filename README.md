@@ -56,3 +56,10 @@ streamlit run app.py
 
 Open your browser and visit:
 👉 http://localhost:8501
+
+## 👨‍💻 Author
+
+**Chaitanya Gore**  
+🎓 B.Tech in Computer Science and Information Technology  
+📧 [chaitanyagore7043@gmail.com](mailto:chaitanyagore7043@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/chaitanya-gore-86b336250) | [GitHub Profile](https://github.com/ChaitanyaGore28)
