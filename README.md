@@ -44,14 +44,14 @@ This project introduces a hybrid approach — combining **LLM-based reasoning (F
 ```
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 ```bash
 git clone https://github.com/ChaitanyaGore28/Smart-Driver-Recommendation.git
 cd Smart-Driver-Recommendation
 pip install -r requirements.txt
 streamlit run app.py
 ```
-## 4️⃣ Access the app
+##  Access the app
 
 Open your browser and visit:
 👉 http://localhost:8501
